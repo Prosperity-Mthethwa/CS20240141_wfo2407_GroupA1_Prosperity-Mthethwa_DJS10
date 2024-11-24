@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+}
+
+.blog-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 500%;
+}
+
+.post-list {
+    list-style: none;
+}
+
+.post-item {
+    margin-bottom: 80px;
+}
+
+.post-item:hover {
+    color: red;
+    transform: scale(1.5);
+}
