@@ -24,6 +24,6 @@ h1 {
 }
 
 .post-item:hover {
-    color: red;
-    transform: scale(1.5);
+    color: rgb(13, 214, 80);
+    transform: scale(1.31);
 }
